@@ -1,3 +1,6 @@
-# test-stat4market
-Тестовое задание для star4market
-Ссылка на GitHub Pages https://alexander-korotckevich.github.io/test-stat4market/
+# courses_market
+
+Сайт для продажи курсов
+<h1>
+<a href="https://alexander-korotckevich.github.io/courses_market/">Demo</a>
+</h1>
